@@ -12,7 +12,6 @@ Hi, I'm Lance! I'm a 2nd year Computer Science student in National University - 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LanceBigInt&theme=rose&hide_border=true&include_all_commits=false&count_private=false)<br/>
