@@ -15,7 +15,7 @@ Hi, I'm Lance! I'm a 2nd year Computer Science student in National University - 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LanceAlgabre&theme=rose&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanceAlgabre&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=LanceBigInt&theme=rose&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanceBigInt&theme=rose&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
