@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Lance! I'm a 2nd year Computer Science student in National University - Dasmariñas. I am passionate about all things tech, art, and motorcycles.
+Hi, I'm <b>Lance!</b> I'm a 2nd year Computer Science student at <b>National University - Dasmariñas</b>. I am passionate about all things <b>tech</b>, <b>photography</b>, and <b>motorcycles</b>.
 
 
 # Socials:
